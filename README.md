@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vignesh3003
 - 👀 I’m interested in CODING AI
-- 🌱 I’m currently learning TYPESCRIPT
+- 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on anything that helps the people
 - 📫 How to reach me ...
 
